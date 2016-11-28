@@ -7,6 +7,9 @@
  * Version 1.5.1
  * Licensed under the MIT license.
  */
+
+/* fixed CSP issue */
+
 (function ($) {
     "use strict";
     
