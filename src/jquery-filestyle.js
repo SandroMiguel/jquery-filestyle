@@ -130,7 +130,7 @@
 
         htmlInput: function () {
             if (this.options.input) {
-                return '<input type="text" style="width:'+this.options.inputSize+'" placeholder="'+ this.options.placeholder +'" disabled> ';
+                return '<input type="text" placeholder="'+ this.options.placeholder +'" disabled> ';
             } else {
                 return '';
             }
